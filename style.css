@@ -16,8 +16,8 @@ grid-column-start: 1;
 grid-column-end: 3;
 grid-row-start: 1;
 grid-row-end: 3;
-    width: 50 mm;
-height: 50 mm;
+width: 50 px;
+height: 50 px;
 }
 
 .gallery__item--2 {

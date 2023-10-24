@@ -8,6 +8,7 @@ grid-gap: 15px;
 .gallery__img {
 width: 50%;
 height: 70%;
+object-fit: cover;
 }
 
 .gallery__item--1 {
